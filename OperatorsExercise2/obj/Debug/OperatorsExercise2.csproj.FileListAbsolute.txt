@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\bin\Debug\OperatorsExercise2.exe.config
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\bin\Debug\OperatorsExercise2.exe
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\bin\Debug\OperatorsExercise2.pdb
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\obj\Debug\OperatorsExercise2.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\obj\Debug\OperatorsExercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\obj\Debug\OperatorsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\obj\Debug\OperatorsExercise2.exe
+C:\Users\Damion\source\repos\OperatorsExercise2\OperatorsExercise2\obj\Debug\OperatorsExercise2.pdb
